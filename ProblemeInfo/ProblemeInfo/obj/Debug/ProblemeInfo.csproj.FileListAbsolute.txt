@@ -1,0 +1,8 @@
+C:\Users\escal\source\repos\ProblemeInfo\ProblemeInfo\obj\Debug\ProblemeInfo.csproj.AssemblyReference.cache
+C:\Users\escal\source\repos\ProblemeInfo\ProblemeInfo\obj\Debug\ProblemeInfo.csproj.SuggestedBindingRedirects.cache
+C:\Users\escal\source\repos\ProblemeInfo\ProblemeInfo\obj\Debug\ProblemeInfo.csproj.CoreCompileInputs.cache
+C:\Users\escal\source\repos\ProblemeInfo\ProblemeInfo\bin\Debug\ProblemeInfo.exe.config
+C:\Users\escal\source\repos\ProblemeInfo\ProblemeInfo\bin\Debug\ProblemeInfo.exe
+C:\Users\escal\source\repos\ProblemeInfo\ProblemeInfo\bin\Debug\ProblemeInfo.pdb
+C:\Users\escal\source\repos\ProblemeInfo\ProblemeInfo\obj\Debug\ProblemeInfo.exe
+C:\Users\escal\source\repos\ProblemeInfo\ProblemeInfo\obj\Debug\ProblemeInfo.pdb
